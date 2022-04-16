@@ -1,0 +1,8 @@
+RLC-520 url
+rtsp://ADMIN:PASSWORD@192.168.55.10:554//h264Preview_01_main
+rtmp://ADMIN:PASSWORD@192.168.55.10/bcs/channel0_main.bcs?token=sdasdasd&channel=0&stream=0&user=ADMIN&password=PASSWORD
+
+xiaofang url
+rtsp://ADMIN:PASSWORD@192.168.55.10:8554/unicast
+
+192.168.55.10 - cameras ip
